@@ -36,7 +36,7 @@
 <br><br>
 
 ## 📈 데이터 구성
-### 1. 데이터 구성 항목은 다음과 같습니다.
+### 1. 데이터 구성 항목
 - air_inflow: 공기 흡입 유량 (^3/min)
 - air_end_temp: 공기 말단 온도 (°C)
 - out_pressure: 토출 압력 (Mpa)
@@ -46,9 +46,66 @@
 - motor_vibe: 모터 진동 (mm/s)
 - type: 설비 번호
 
-### 2. 또한 설비별로 다음의 특성을 갖습니다.
+### 2. 설비별 특성
 - 설비 번호 [0, 4, 5, 6, 7]: 30HP(마력)
 - 설비 번호 1: 20HP
 - 설비 번호 2: 10HP
 - 설비 번호 3: 50HP
+<br><br>
+
+## 🧑‍🤝‍🧑 팀원 및 역할
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/jian1114">
+          <img src="https://avatars.githubusercontent.com/u/77630266?v=4" width="100px;">  <br>
+          <sub><b>이지안</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/brojoon1">
+          <img src="https://avatars.githubusercontent.com/u/81418195?v=4" width="100px;">  <br>
+          <sub><b>김형준</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/ayocado">
+          <img src="https://avatars.githubusercontent.com/u/89889583?v=4" width="100px;">  <br>
+          <sub><b>윤용완</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/JunePark-00">
+          <img src="https://avatars.githubusercontent.com/u/81201633?v=4" width="100px;">  <br>
+          <sub><b>박주은</b></sub>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">팀장, 데이터분석, 모델링</td>
+      <td align="center">데이터분석, 모델링</td>
+      <td align="center">데이터분석, 모델링</td>
+      <td align="center">데이터분석, 모델링</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+## 💻 기술 스택
+<b> 언어 </b><br>
+<span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></span><br>
+
+<b> 라이브러리 </b><br>
+<span><img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></span>
+
+<b> 프로그래밍 인터페이스 </b><br>
+<span><img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></span><br>
+
+<b> 협업툴 </b><br>
+<span><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></span>
+
 
