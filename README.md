@@ -83,7 +83,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">팀장, 데이터분석, 모델링</td>
+      <td align="center">데이터분석, 모델링</td>
       <td align="center">데이터분석, 모델링</td>
       <td align="center">데이터분석, 모델링</td>
       <td align="center">데이터분석, 모델링</td>
@@ -100,9 +100,13 @@
 <b> 라이브러리 </b><br>
 <span><img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></span><br>
 
 <b> 프로그래밍 인터페이스 </b><br>
-<span><img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></span><br>
+<span><img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"></span><br>
 
 <b> 협업툴 </b><br>
 <span><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></span>
