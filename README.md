@@ -1,4 +1,4 @@
-# [제4회 2023 연구개발특구 AI SPARK 챌린지 - 공기압축기 이상 판단](https://aifactory.space/competition/detail/2226)
+# [제4회 2023 연구개발특구 AI SPARK 챌린지 - 공기압축기 이상 판단](https://aifactory.space/task/2226/overview)
 ## **최종결과: 4위 (353팀 참가)**
 산업용 공기압축기의 이상 유무를 비지도학습 방식을 이용하여 판정
 <br><br>
